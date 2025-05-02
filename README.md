@@ -63,10 +63,12 @@ The dashboard will be locally accessible at http://localhost:5173
 - Accessing your dashboard via private Tailscale IP
 - Testing cross-device connectivity in the private network
 
-### 4. VPN Tunnel with WireGuard (30 min)
-- Introduction and basic concepts of WireGuard
-- Configuring a point-to-point VPN tunnel
+### 4. VPN Tunnel with WireGuard using WG-Easy (30 min)
+- Introduction to WireGuard and the WG-Easy administration interface
+- Setting up WG-Easy Docker container for simplified management
+- Creating and configuring client profiles through the web UI
 - Accessing your dashboard through the WireGuard tunnel
+- Scanning QR codes for mobile device configuration
 - Enabling persistent remote access via private IP
 
 ### 5. Summary and Best Practices (15 min)
@@ -85,9 +87,10 @@ The dashboard will be locally accessible at http://localhost:5173
 - [Official Documentation](https://tailscale.com/kb/)
 - [Installation Guide](https://tailscale.com/download)
 
-### WireGuard
-- [Official Website](https://www.wireguard.com/)
-- [Installation Guide](https://www.wireguard.com/install/)
+### WireGuard & WG-Easy
+- [WireGuard Official Website](https://www.wireguard.com/)
+- [WG-Easy GitHub Repository](https://github.com/WeeJeWel/wg-easy)
+- [Docker Hub: WG-Easy](https://hub.docker.com/r/weejewel/wg-easy)
 
 ## Contact
 
