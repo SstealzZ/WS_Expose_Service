@@ -89,7 +89,7 @@ The dashboard will be locally accessible at http://localhost:5173
 
 ### WireGuard & WG-Easy
 - [WireGuard Official Website](https://www.wireguard.com/)
-- [WG-Easy GitHub Repository](https://github.com/WeeJeWel/wg-easy)
+- [WG-Easy GitHub Repository](https://github.com/wg-easy/wg-easy)
 - [Docker Hub: WG-Easy](https://hub.docker.com/r/weejewel/wg-easy)
 
 ## Contact
